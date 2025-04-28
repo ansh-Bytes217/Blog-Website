@@ -1,0 +1,14 @@
+
+body {
+  background-color: #f8f9fa;
+  font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+.container {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
